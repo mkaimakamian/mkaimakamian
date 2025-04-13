@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mkaimakamian
 - 👀 I’m interested in get in touch with other people :D (so generic this sentence)
-- 🌱 I’m currently learning Golang and Vue!
-- 💞️ I’m looking to collaborate on ... nothing, tu be honest... not now at least.
+- 🌱 I’m currently learning Golang!
+- 💞️ I’m looking to collaborate on ... nothing, to be honest... not now at least.
 - 📫 How to reach me ...
 
 <!---
